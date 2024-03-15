@@ -1,0 +1,7 @@
+public
+.vscode
+
+__pycache__ 
+InfoFundo
+
+*.ipynb
